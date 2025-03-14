@@ -24,7 +24,7 @@ File Locater is a Visual Studio Code extension that allows you to quickly locate
 
 ## Requirements
 
-- Visual Studio Code 1.8.0 or newer
+- Visual Studio Code 1.74.0 or newer
 
 ## Installation
 
